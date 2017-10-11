@@ -1,0 +1,16 @@
+O GitHub tem um pacote de serviços que chama "Student Pack".
+Vai desde repositório ilimitado até cursos e serviços de hospedagem (tem muita coisa!).
+https://education.github.com/pack
+
+A JetBrains disponibiliza todas as IDEs pra estudantes.
+https://www.jetbrains.com/student/
+
+A ACM (Association for Computing Machinery) é uma associação que disponibiliza publicações, revistas, etc,
+relacionados à computação. E aí eles tem um plano especial estudante (19 doletas - anual).
+Mas não só isso, além do acesso a esse material, eles tem uma parceria com a O'Reilly e a gente tem acesso
+free a todo conteúdo (ebooks, cursos, tutorial, etc) desse site: https://www.safaribooksonline.com
+https://learning.acm.org/
+
+A editora Packt tem o projeto "Free Learning", que disponibiliza um ebook diferente todo dia de graça
+(é sério! e o que tá rolando agora é um de Machine Learning em Python).
+https://www.packtpub.com/
